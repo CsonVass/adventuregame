@@ -1,0 +1,8 @@
+honnan/hova	foldszint	szoba	rendelo	recepcios_pult	emelet	muto	noverszoba
+foldszint	0	1	1	1	1	0	0
+szoba	1	0	0	0	0	0	0
+rendelo	1	0	0	0	0	0	0
+recepcios_pult	1	0	0	0	0	0	0
+emelet	1	0	0	0	0	1	1
+muto	0	0	0	0	1	0	0
+noverszoba	0	0	0	0	1	0	0	

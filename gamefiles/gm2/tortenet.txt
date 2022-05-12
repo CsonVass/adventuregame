@@ -1,0 +1,19 @@
+apolo
+start	NULL	NULL	Feladat: Eltunt tobb doboz gyogyszer a korhazbol. Deritsd ki, ki lopta el!	NULL	NULL	NULL
+megy	foldszint	NULL	A korhaz foldszintje sok beteggel van tele.	NULL	NULL	NULL
+megy	szoba	NULL	A szoba egyik agyan olvashato felirat: Teszt Elek, hasnyalmirigy gyulladas	NULL	NULL	NULL
+megy	rendelo	NULL	A rendeloben egy orvos a kavejat iszogatja.	NULL	NULL	NULL
+megy	recepcios_pult	NULL	A recepcios vidam mosollyal koszonti az embereket.	NULL	NULL	NULL
+megy	emelet	NULL	Az emeleten egy apolo epp pihenoijdejet tolti.	NULL	NULL	NULL
+megy	muto	NULL	A mutoben a fonover sterilizal.	NULL	NULL	NULL
+megy	noverszoba	NULL	A noverszobaban nincs senki. Az asztal egyik fiokja zarhato.	NULL	NULL	NULL
+beszel	szoba	NULL	Nagyon nagy fajdalmaim vannak, de az orvos nem kuld nyugatot.	Teszt_Elek	NULL	NULL
+beszel	rendelo	NULL	A recepcios nagyon kedves asszony. Neha komolyan azt hiszem, szed valamit.	orvos	NULL	NULL
+beszel	recepcios_pult	NULL	Szerintem az emberek tul buskomorak manapsag, a fajdalmakat nem gyogyszerekkel kellene kezelni, hanem spiritualisan megtisztulni.	recepcios	NULL	NULL
+beszel	emelet	NULL	A fonover mostanaban nagyon nyuzott es furcsa, szerintem rosszban santikal.	apolo	NULL	NULL
+beszel	muto	NULL	Az apolo mindig elviszi a zarhato szekreny kulcsat, vajon mit rejtegethet ott?	fonover	NULL	NULL
+keres	emelet	12	Lam, valaki elszort egy kis kulcsot.	inventory	kulcs	info
+keres	foldszint	NULL	A falon az ugyeleti rend lathato: a recepcios es fonover nappal, az orvos es az apolo ejszaka dolgoztak az eltunes napjan	nyom	ugyeleti rend (n: r,f; e: o,a)	NULL
+keres	szoba	8	Talaltal egy korlapot, mely szerint Teszt Elek nyugtatofuggo.	nyom	korlap	info
+hasznal	noverszoba	kulcs	A kulcs kinyitotta a zarhato fiokot, amelyben nyugtatok voltak. Vajon ezek Teszt Elek gyogyszerei? Erdemes lenne megkerdezni az orvost errol.	gyogyszerek	inventory	NULL
+hasznal	rendelo	gyogyszerek	Ezek a Teszt Elek nevu paciens elveszett gyogyszerei!	orvos	info	NULL

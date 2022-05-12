@@ -1,0 +1,9 @@
+honnan/hova	folyoso	konyha	furdoszoba	haloszoba	dolgozoszoba	nappali	gyerekszoba	udvar
+folyoso	0	1	1	1	1	1	0	1
+konyha	1	0	0	0	0	0	0	0
+furdoszoba	1	0	0	0	0	0	0	0
+haloszoba	1	0	0	0	1	0	0	0
+dolgozoszoba	1	0	0	1	0	0	0	0
+nappali	1	0	0	0	0	0	1	0
+gyerekszoba	0	0	0	0	0	1	0	0
+udvar	1	0	0	0	0	0	0	0	

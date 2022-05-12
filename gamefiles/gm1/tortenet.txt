@@ -1,0 +1,19 @@
+nagybacsi
+start	NULL	NULL	Feladat: Valaki megette az utolo szelet pizzat. Szereplok: anya, apa, nagybacsi, kisfiu, kislany	NULL	NULL	NULL
+megy	folyoso	NULL	A folyoso padloja tisztara van suvickolva.	NULL	NULL	NULL
+megy	konyha	NULL	Nehany mosatlanon kivul minden el van mosogatva. A nagybacsi az ablakon nez ki epp.	NULL	NULL	NULL
+megy	furdoszoba	NULL	Az egesz hely oblitoillatot araszt.	NULL	NULL	NULL
+megy	haloszoba	NULL	Az agy szepen beagyazva, rajta fekszik az anya.	NULL	NULL	NULL
+megy	dolgozoszoba	NULL	Kis rendetlenseg, poszterek. Az apa a gepe elott ul.	NULL	NULL	NULL
+megy	nappali	NULL	A kisfiu jatszik autokkal kozepen, valami furcsa szag erzodik.	NULL	NULL	NULL
+megy	gyerekszoba	NULL	Jatekok szetdobalva, kislany telefonjat nyomkodja a foldon fekve.	NULL	NULL	NULL
+megy	udvar	NULL	Kicsit nagy a fu, de a viragoskert szep rendezett.	NULL	NULL	NULL
+beszel	konyha	NULL	A sogornom tisztasagmanias.	nagybacsi	NULL	NULL
+beszel	haloszoba	NULL	A ferjem cukorbeteg.	anya	NULL	NULL
+beszel	dolgozoszoba	NULL	A fiam az anyjara utott, ugyanolyan sznob.	apa	NULL	NULL
+beszel	nappali	NULL	A hugom nagyon rendetlen, kikeszit.	kisfiu	NULL	NULL
+beszel	gyerekszoba	NULL	Anyu meg a nagybacsikam is sznobok, a bacsikam mindig beoltja magat eves elott.	kislany	NULL	NULL
+keres	udvar	NULL	Megtalaltad a pizzasdobozt szepen kilapitva.	nyom	lapitott pizzasdoboz	NULL
+keres	konyha	NULL	Pizzas kest es villat talaltal.	nyom	pizzas kes, villa	NULL
+keres	nappali	NULL	Talaltal egy inzulinos tut.	nyom	inzulinos tu	NULL
+keres	furdoszoba	NULL	Az egyik torolkozo pizzafoltos.	nyom	pizzafoltos torolkozo	NULL

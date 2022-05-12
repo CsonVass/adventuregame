@@ -1,0 +1,18 @@
+alma
+Mon Dec 02 12:28:42 2019
+true
+gm3
+szoba
+csesze	kulcs	nagyito	cian	telefon	jelszo	
+habzo szaj	
+anya: Hazaertem az irodabol, es a ferjem akkorra mar... akkorra mar... halott volt...
+kisfiu: Apu nagyon szomoru volt tegnap.
+szomszed: A ferj nagyon rosszul bant a nejevel, folyton verte!
+nagybacsi: A gyerekeit mindennel jobban szerette.
+kislany: A papa azt mondta, hogy mindent megtesz, hogy jol eljunk a tesommal.
+anya: A dolgozoszobaban van egy telefon, onnan tud hivni barkit.
+postas: Az utobbi idoben mindig eljott a postara a levelekert, nem varta meg a kiszallitast.
+Emailek: Elbocsatottak munkahelyerol egy munkahelyi kapcsolat miatt.
+anya: Manapsag sokat beszelt az eletbiztositasarol, meg hogy azt a gyerekeknek adjam, ha vele tortenne valami.
+jatekos: A csesze es a cian szaga megegyezik.
+kislany: Anyu fozte mindig a kavet apunak.

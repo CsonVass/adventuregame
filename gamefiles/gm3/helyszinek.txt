@@ -1,0 +1,13 @@
+honnan/hova	folyoso	konyha	furdoszoba	haloszoba	dolgozoszoba	nappali	terasz	udvar	emelet	padlas	erkely	szoba
+folyoso	0	1	1	1	1	1	0	1	1	0	0	0
+konyha	1	0	0	0	0	0	0	0	0	0	0	0
+furdoszoba	1	0	0	0	0	0	0	0	0	0	0	0
+haloszoba	1	0	0	0	1	0	0	0	0	0	0	0
+dolgozoszoba	1	0	0	1	0	0	0	0	0	0	0	0
+nappali	1	0	0	0	0	0	1	0	0	0	0	0
+terasz	0	0	0	0	0	1	0	0	0	0	0	0
+udvar	1	0	0	0	0	0	0	0	0	1	0	0
+emelet	1	0	0	0	0	0	0	0	0	1	1	1
+padlas	0	0	0	0	0	0	0	1	1	0	0	0
+erkely	0	0	0	0	0	0	0	0	1	0	0	0
+szoba	0	0	0	0	0	0	0	0	1	0	0	0	

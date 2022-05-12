@@ -1,0 +1,32 @@
+apa
+start	NULL	NULL	Feladat: Egy ketgyerekes edesapa meghalt. Deritsd ki, ki olte meg! Szereplok: apa, anya, kisfiu, kislany, szomszed, postas, nagybacsi	NULL	NULL	NULL
+megy	folyoso	NULL	A falak tele vannak csaladi kepekkel.	NULL	NULL	NULL
+megy	konyha	NULL	Az edesanya epp konnyeivel kuzkodve ebedet keszit.	NULL	NULL	NULL
+megy	furdoszoba	NULL	Normal furdoszoba zarhato gyogyszeresszekrennyel.	NULL	NULL	NULL
+megy	haloszoba	NULL	Az agyon az apa holtteste.	NULL	NULL	NULL
+megy	dolgozoszoba	NULL	Itt tartotta fontos dolgait az apa.	NULL	NULL	NULL
+megy	nappali	NULL	A siro kisfiu a kanapen ul.	NULL	NULL	NULL
+megy	terasz	NULL	Lathatoan adtak a dekoraciora, marvany oszlopokkal van a terasz diszitve.	NULL	NULL	NULL
+megy	udvar	NULL	A szomszed epp a sovenyt nyirja.	NULL	NULL	NULL
+megy	emelet	NULL	Bizonyara vagyonos csalad, ekkora emeletes hazzal.	NULL	NULL	NULL
+megy	padlas	NULL	A padlasok hiresen sok kincset tudnak rejteni.	NULL	NULL	NULL
+megy	erkely	NULL	A nagybacsi itt szivarozik.	NULL	NULL	NULL
+megy	szoba	NULL	A kislany babaival jatszik, nyilvan nem mondtak el neki, mi tortent.	NULL	NULL	NULL
+beszel	konyha	30	Manapsag sokat beszelt az eletbiztositasarol, meg hogy azt a gyerekeknek adjam, ha vele tortenne valami.	anya	NULL	info
+beszel	konyha	15	A dolgozoszobaban van egy telefon, onnan tud hivni barkit.	anya	NULL	info
+beszel	konyha	NULL	Hazaertem az irodabol, es a ferjem akkorra mar... akkorra mar... halott volt...	anya	NULL	NULL
+beszel	nappali	NULL	Apu nagyon szomoru volt tegnap.	kisfiu	NULL	NULL
+beszel	udvar	NULL	A ferj nagyon rosszul bant a nejevel, folyton verte!	szomszed	NULL	NULL
+beszel	erkely	NULL	A gyerekeit mindennel jobban szerette.	nagybacsi	NULL	NULL
+beszel	szoba	NULL	A papa azt mondta, hogy mindent megtesz, hogy jol eljunk a tesommal.	kislany	NULL	NULL
+keres	dolgozoszoba	14	Megtalaltad az emlitett telefont.	inventory	telefon	info
+keres	konyha	NULL	Egy ures kavescsesze, mely furcsa szagot araszt.	inventory	csesze	NULL
+keres	haloszoba	NULL	Az apa szajan levo valadek mergezesre utal.	nyom	habzo szaj	NULL
+keres	padlas	NULL	Talaltal egy regi nagyitot.	inventory	nagyito	NULL
+keres	terasz	NULL	Talaltal egy szekrenykulcsot.	inventory	kulcs	NULL
+hasznal	dolgozoszoba	telefon	Az utobbi idoben mindig eljott a postara a levelekert, nem varta meg a kiszallitast.	postas	info	NULL
+hasznal	szoba	csesze	Anyu fozte mindig a kavet apunak.	kislany	info	NULL
+hasznal	furdoszoba	kulcs	Kinyitottad a gyogyszeresszekrenyt, benne ciannal.	cian	inventory	NULL
+hasznal	dolgozoszoba	nagyito	Megtalaltad ezzel a gep jelszavat!	jelszo	inventory	NULL
+hasznal	konyha	cian	A csesze es a cian szaga megegyezik.	jatekos	info	NULL
+hasznal	dolgozoszoba	jelszo	Elbocsatottak munkahelyerol egy munkahelyi kapcsolat miatt.	Emailek	info	NULL

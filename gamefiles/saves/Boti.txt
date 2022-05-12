@@ -1,0 +1,13 @@
+Boti
+Mon Dec 02 10:10:04 2019
+true
+gm2
+rendelo
+kulcs	gyogyszerek	
+ugyeleti rend (n: r,f; e: o,a)	
+Teszt_Elek: Nagyon nagy fajdalmaim vannak, de az orvos nem kuld nyugatot.
+orvos: A recepcios nagyon kedves asszony. Neha komolyan azt hiszem, szed valamit.
+recepcios: Szerintem az emberek tul buskomorak manapsag, a fajdalmakat nem gyogyszerekkel kellene kezelni, hanem spiritualisan megtisztulni.
+apolo: A fonover mostanaban nagyon nyuzott es furcsa, szerintem rosszban santikal.
+fonover: Az apolo mindig elviszi a zarhato szekreny kulcsat, vajon mit rejtegethet ott?
+orvos: Ezek a Teszt Elek nevu paciens elveszett gyogyszerei!
